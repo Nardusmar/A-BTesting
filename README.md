@@ -86,5 +86,5 @@ jupyter notebook notebooks/experimento_ab_landing_page.ipynb
 
 ## 👤 Autor
 
-**Tu Nombre**
-[LinkedIn](https://linkedin.com/in/tu-usuario) · [Portafolio](https://tu-portafolio.com)
+**Martha Nardeth Martínez**
+[LinkedIn](www.linkedin.com/in/nardeth-martinez-rodriguez) · [Portafolio](https://tu-portafolio.com)
