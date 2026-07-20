@@ -5,6 +5,7 @@
 ![SciPy](https://img.shields.io/badge/SciPy-Estad%C3%ADstica-8CAAE6?logo=scipy)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Visualizaci%C3%B3n-3776AB)
 ![Status](https://img.shields.io/badge/Status-Completado-brightgreen)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1S5aOlQpi_oUvRiTNzqP_1cwrOFCkTc-9/view?usp=sharing)
 
 ## 📌 Descripción del proyecto
 
